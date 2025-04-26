@@ -8,6 +8,6 @@ public class SpringbootTransactionProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootTransactionProjectApplication.class, args);
+		//test
 	}
-
 }
